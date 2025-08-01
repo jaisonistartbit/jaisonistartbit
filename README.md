@@ -1,5 +1,20 @@
 # 💫 About Me:
-🚀 Hey, I’m Jai — a Full Stack Developer who loves building things that make an impact. Over the past few years, I’ve worked on creating applications that balance performance, scalability, and great user experience. I enjoy working across the entire stack — from shaping backend architectures to designing intuitive frontends — and I’m constantly exploring new ways to make development faster and smarter.<br><br>I believe in writing code that’s simple, maintainable, and future‑ready, and I thrive in teams where knowledge‑sharing and problem‑solving lead to meaningful results.<br><br>🧩 What Drives Me<br>Turning complex requirements into clear, practical solutions<br><br>Learning new tools and adapting quickly to evolving tech<br><br>Building products that scale well and delight users<br><br>Collaborating closely with teams while staying self‑directed<br><br>Always improving and experimenting to stay ahead in development trends<br><br>🌱 What I’m Exploring Right Now<br>Serverless patterns and edge deployments for faster delivery<br><br>Next.js optimizations for performance‑heavy applications<br><br>Real‑time features powered by event‑driven backends<br><br>Cloud integrations with AWS and Supabase<br><br>N8N for automation to simplify and connect workflows seamlessly
+🚀 Hey, I’m Jai — a Full Stack Developer who loves building things that make an impact. Over the past few years, I’ve worked on creating applications that balance performance, scalability, and great user experience. I enjoy working across the entire stack — from shaping backend architectures to designing intuitive frontends — and I’m constantly exploring new ways to make development faster and smarter.<br><br>I believe in writing code that’s simple, maintainable, and future‑ready, and I thrive in teams where knowledge‑sharing and problem‑solving lead to meaningful results.<br><br>
+
+## 🧩 What Drives Me
+- Turning complex requirements into clear, practical solutions  
+- Learning new tools and adapting quickly to evolving tech  
+- Building products that scale well and delight users  
+- Collaborating closely with teams while staying self‑directed  
+- Always improving and experimenting to stay ahead in development trends  
+
+## 🌱 What I’m Exploring Right Now
+- Serverless patterns and edge deployments for faster delivery  
+- Next.js optimizations for performance‑heavy applications  
+- Real‑time features powered by event‑driven backends  
+- Cloud integrations with AWS and Supabase  
+- **N8N** for automation to simplify and connect workflows seamlessly
+
 
 
 ## 🌐 Socials:
